@@ -1,0 +1,36 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  color: black;
+}
+
+h1{
+  color: white;
+}
+
+#calculator {
+  width: 500px;
+}
+
+.value {
+  background-color: #000000;
+  margin-bottom: 30px;
+  height: 100px;
+  color: white;
+  font-size: 4rem;
+}
+
+#clearBtn {
+  width: 50%;
+}
+
+.button-container button {
+  width: 25%;
+  border: 1px solid gray;
+}
+
+#calcBtn {
+  width: 50%;
+}
